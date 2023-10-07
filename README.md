@@ -1,0 +1,1 @@
+[CS168: The Modern Algorithmic Toolbox Lecture #1: Introduction and Consistent Hashing](https://web.stanford.edu/class/cs168/l/l1.pdf)
